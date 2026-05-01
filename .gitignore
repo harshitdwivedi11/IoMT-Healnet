@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Model file (too large for GitHub)
+backend/recovery_model.pkl
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Mac
+.DS_Store
