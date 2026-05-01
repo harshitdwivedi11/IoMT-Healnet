@@ -1,4 +1,4 @@
-# RecoveryAI — ML Healthcare Dashboard
+# IoMT Healnet — ML Healthcare Dashboard
 
 > AI-powered patient recovery time prediction with **SHAP** and **LIME** explainability.  
 > Stack: **Flask** (Python) · **React + Vite** · **LightGBM / ExtraTrees / ElasticNet** stacking model
